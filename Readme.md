@@ -1,7 +1,7 @@
 # American Express - Default Prediction
 コンペページ:https://www.kaggle.com/competitions/amex-default-prediction
 
-##結果  
+## 結果  
 218/4875位（銀メダル）
 
 ## 概要
